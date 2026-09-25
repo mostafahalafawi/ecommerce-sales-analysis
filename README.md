@@ -35,7 +35,7 @@ ecommerce-sales-analysis/
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.jpg)
 
 ## How to Use
 
